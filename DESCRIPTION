@@ -1,0 +1,13 @@
+Package: groupAct2018
+Title: candidate group activities Bioc2018
+Description: Describe candidate group activities Bioc2018.
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: covr
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+biocViews: variants
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
