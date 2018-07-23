@@ -1,4 +1,5 @@
 #' retrieve a covr report for SummarizedExperiment
+#' @import covr
 #' @export
 getSEcoverage = function() {
  get(load(system.file("coverageObjs/SE_covr.rda", package="groupAct2018")))
