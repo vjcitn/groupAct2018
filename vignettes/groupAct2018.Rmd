@@ -170,7 +170,7 @@ or build report
 results and catalogues issues (like entry points that
 might terminate) with C and other
 foreign language interfaces used in Bioconductor
-packages.  The `r Biocpkg("BiocPkgTools")`
+packages.  The [BiocPkgTools](https://github.com/seandavi/BiocPkgTools)
 package may be of use.
 
 

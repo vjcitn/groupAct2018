@@ -1,7 +1,7 @@
 Package: groupAct2018
 Title: candidate group activities Bioc2018
 Description: Describe candidate group activities Bioc2018.
-Version: 0.0.1
+Version: 0.0.2
 Author: Vince Carey
 Suggests: knitr, BiocStyle
 Depends: covr
